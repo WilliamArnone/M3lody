@@ -128,7 +128,7 @@ uint16_t keyconfig[] = {
 // PS2_KEY_4           0X34
   none,
 // PS2_KEY_5           0X35
-  note(F3),
+  note(F2),
 // PS2_KEY_6           0X36
   note(G2),
 // PS2_KEY_7           0X37
